@@ -1,0 +1,32 @@
+{
+  "name": "ember-cli-remote-select",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "nodeunit test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/voislavj/ember-cli-remote-select.git"
+  },
+  "keywords": [
+    "ember",
+    "ember-cli",
+    "select",
+    "remote-select"
+  ],
+  "author": "Voislav Jovanovic <voislavj@gmail.com> (http://vojajovanovic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voislavj/ember-cli-remote-select/issues"
+  },
+  "homepage": "https://github.com/voislavj/ember-cli-remote-select",
+
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "coffee-script": "^ 1.10"
+  }
+}
